@@ -1,6 +1,6 @@
-# Hi there!
+<!-- # Hi there!
 I am a university student and I am interested in AI and Data Science in general.
-<!-- ### I'm currently working on 
+### I'm currently working on 
 - My English NLP toolkit 
 - My Vietnamese NLP toolkit
 - Graph Neural Networks
